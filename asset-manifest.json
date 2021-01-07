@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/apollo/static/css/main.43dc8335.chunk.css",
-    "main.js": "/apollo/static/js/main.23d5586d.chunk.js",
-    "main.js.map": "/apollo/static/js/main.23d5586d.chunk.js.map",
+    "main.css": "/apollo/static/css/main.4a980c14.chunk.css",
+    "main.js": "/apollo/static/js/main.6f8bacf7.chunk.js",
+    "main.js.map": "/apollo/static/js/main.6f8bacf7.chunk.js.map",
     "runtime-main.js": "/apollo/static/js/runtime-main.38cd6c00.js",
     "runtime-main.js.map": "/apollo/static/js/runtime-main.38cd6c00.js.map",
     "static/js/2.667f5988.chunk.js": "/apollo/static/js/2.667f5988.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.b0a1ae59.chunk.js": "/apollo/static/js/3.b0a1ae59.chunk.js",
     "static/js/3.b0a1ae59.chunk.js.map": "/apollo/static/js/3.b0a1ae59.chunk.js.map",
     "index.html": "/apollo/index.html",
-    "static/css/main.43dc8335.chunk.css.map": "/apollo/static/css/main.43dc8335.chunk.css.map",
+    "static/css/main.4a980c14.chunk.css.map": "/apollo/static/css/main.4a980c14.chunk.css.map",
     "static/js/2.667f5988.chunk.js.LICENSE.txt": "/apollo/static/js/2.667f5988.chunk.js.LICENSE.txt",
     "static/media/SearchBar.css": "/apollo/static/media/background_search_mobile.bfe57261.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.38cd6c00.js",
     "static/js/2.667f5988.chunk.js",
-    "static/css/main.43dc8335.chunk.css",
-    "static/js/main.23d5586d.chunk.js"
+    "static/css/main.4a980c14.chunk.css",
+    "static/js/main.6f8bacf7.chunk.js"
   ]
 }
