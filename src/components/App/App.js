@@ -3,7 +3,6 @@ import BusinessList from '../BusinessList/BusinessList';
 import SearchBar from '../SearchBar/SearchBar';
 import './App.css';
 import Yelp from '../../util/Yelp'
-
 // const business = {
 // 	imageSrc: './pizza.webp',
 // 	name: 'MarginOtto Pizzeria',
